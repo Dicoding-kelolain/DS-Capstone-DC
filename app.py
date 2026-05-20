@@ -1880,7 +1880,6 @@ elif page == "q5":
 # ─────────────────────────────────────────────
 # FOOTER
 # ─────────────────────────────────────────────
-
 st.markdown("""
 <div style='text-align:center; color:rgba(99,179,237,0.3); font-size:0.75rem; padding:32px 0 8px; letter-spacing:0.08em;'>
     KELOLA.IN · Interactive Dashboard · Capstone Project - CC26-PSU248 · Dataset: Transactions · Inventory · Financials
